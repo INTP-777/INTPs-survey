@@ -3,9 +3,9 @@ import streamlit as st
 st.text_input("이름:")
 st.text_input("학년:")
 
-st.selectbox("this is just a question"["English or Spanish"])
-st.selectbox("What do you want to get?"["carrot or candy blossom"])
-st.selectbox("What game do you like?"["roblox or mincraft"])
+st.selectbox("this is just a question",["English or Spanish"])
+st.selectbox("What do you want to get?",["carrot or candy blossom"])
+st.selectbox("What game do you like?",["roblox or mincraft"])
 st.selectbox("Who do you want?", ["idiot", "prodigy"])
 st.selectbox("What game do you like?", ["grow-a-garden", "rivals"])
 
