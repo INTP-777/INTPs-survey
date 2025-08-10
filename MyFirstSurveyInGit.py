@@ -52,5 +52,5 @@ st.subheader(" -level 7- ")
 st.number_input("y = 2 + 5y = 2x + 53 x y = 73x - y=7x + y = 12x + y = 124x 2y 4x = 2y")
 
 
-st.subheader(" ... you came so far... now is the time to stop solving correct... muahaha..? ")
+st.subheader(" ... you came so far... now is the time to stop solving correctly... muahaha..? ")
 st.number_input("∫ 0∞​  sin_x/x​ dx = ?... ")
